@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SecurityUtils
 {
-    internal class AccessControllUtils
+    public static class AccessControllUtils
     {
     }
 }
